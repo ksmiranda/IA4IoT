@@ -1,2 +1,2 @@
-# IA4IoT
+# IA for IoT Workshop
 Resources for IA for IoT Workshop
